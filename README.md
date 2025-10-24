@@ -5,13 +5,12 @@ I'm a dedicated student with a passion for artificial intelligence and deep lear
 ## 👨‍💻 About Me
 
 - 🎓 **Student** specializing in AI, NLP, and deep learning.
-- 🐍 **Python & PyTorch Enthusiast**: Building robust, scalable models from the ground up.
 - 🚀 **Current Project**: Crafting a custom LLM from scratch to truly understand every component—from tokenization to inference.
 
 ## 🛠️ Skills
 
 - **Languages:** Python (primary), familiar with C++
-- **Frameworks:** PyTorch, NumPy, Pandas
+- **Frameworks:** PyTorch, NumPy
 - **Interests:** LLMs, neural architectures, transformers, data science
 
 ## 🌱 What I’m Learning
@@ -22,12 +21,8 @@ I'm a dedicated student with a passion for artificial intelligence and deep lear
 
 ## 📂 Featured Project
 
-### 🧠 Custom LLM From Scratch
+### 🧠 Custom LLM From Scratch (Arcane)
 > Building, training, and evaluating a large language model with PyTorch to uncover the “how” and “why” behind state-of-the-art AI.
-
-## 📊 GitHub Stats
-
-![AlexLee729's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLee729&show_icons=true&theme=default)
 
 ## 📫 Connect With Me
 
