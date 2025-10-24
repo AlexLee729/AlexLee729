@@ -1,7 +1,3 @@
-# Hi, I’m Alex Lee 👋
-
-I'm a dedicated student with a passion for artificial intelligence and deep learning, currently focused on demystifying the inner workings of large language models (LLMs).
-
 ## 👨‍💻 About Me
 
 - 🎓 **Student** specializing in AI, NLP, and deep learning.
