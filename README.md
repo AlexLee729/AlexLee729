@@ -11,13 +11,12 @@ I'm a dedicated student with a passion for artificial intelligence and deep lear
 
 - **Languages:** Python (primary), familiar with C++
 - **Frameworks:** PyTorch, NumPy
-- **Interests:** LLMs, neural architectures, transformers, data science
+- **Interests:** LLMs, neural architectures, transformers
 
 ## 🌱 What I’m Learning
 
 - Deep dives into transformer architectures and attention mechanisms
 - Optimizing training and inference for large models
-- Practical applications of NLP and generative AI
 
 ## 📂 Featured Project
 
@@ -27,7 +26,3 @@ I'm a dedicated student with a passion for artificial intelligence and deep lear
 ## 📫 Connect With Me
 
 - [Email](mailto:Alexblee1118@gmail.com)
-
----
-
-*Always open to collaboration and exciting new AI projects!*
